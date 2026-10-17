@@ -1,4 +1,4 @@
-<h1 align="center">Cloud Native AI Playbook</h1>
+<h1 align="center">AI Builder Playbook</h1>
 
 <p align="center"><em>A collection of AI research, hands-on projects and data playbooks by cloudmelon from iMelonArt.</em></p>
 
@@ -15,7 +15,7 @@
 
 ## Introduction
 
-Cloud Native AI Playbook brings together research papers, practical AI proof-of-concept projects and data engineering resources for learning, experimenting and building AI applications. Created by Melony Qin (cloudmelon) at iMelonArt, it combines the original AI Playbook, AI CodePlaybook and Data Playbook collections in one repository.
+AI Builder Playbook brings together research papers, practical AI proof-of-concept projects and data engineering resources for learning, experimenting and building AI applications. Created by Melony Qin (cloudmelon) at iMelonArt, it combines the original AI Playbook, AI CodePlaybook and Data Playbook collections in one repository.
 
 Explore local AI and retrieval-augmented generation (RAG), cloud-based AI experiments, and the data foundations behind AI products. Start with the introduction video, then follow the [AI startup YouTube playlist](https://bit.ly/ai-startup-cloudmelon) for the series.
 
