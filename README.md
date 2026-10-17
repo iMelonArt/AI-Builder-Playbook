@@ -1,15 +1,17 @@
-# AI Builder Playbook
+<h1 align="center">AI Builder Playbook</h1>
 
-*A collection of AI research, hands-on projects and data playbooks by cloudmelon from iMelonArt.*
+<p align="center"><em>A collection of AI research, hands-on projects and data playbooks by cloudmelon from iMelonArt.</em></p>
 
-[![GitHub stars](https://img.shields.io/github/stars/iMelonArt/AI-Builder-Playbook)](https://github.com/iMelonArt/AI-Builder-Playbook/stargazers)
-[![GitHub forks](https://img.shields.io/github/forks/iMelonArt/AI-Builder-Playbook)](https://github.com/iMelonArt/AI-Builder-Playbook/network/members)
-[![Pull requests](https://img.shields.io/github/issues-pr/iMelonArt/AI-Builder-Playbook)](https://github.com/iMelonArt/AI-Builder-Playbook/pulls)
-[![Issues](https://img.shields.io/github/issues/iMelonArt/AI-Builder-Playbook)](https://github.com/iMelonArt/AI-Builder-Playbook/issues)
-[![Contributors](https://img.shields.io/github/contributors/iMelonArt/AI-Builder-Playbook?color=2b9348)](https://github.com/iMelonArt/AI-Builder-Playbook/graphs/contributors)
-[![Licenses: MIT and Apache 2.0](https://img.shields.io/badge/licenses-MIT%20%26%20Apache--2.0-2b9348)](#license)
+<p align="center">
+  <a href="https://github.com/iMelonArt/AI-Builder-Playbook/stargazers"><img src="https://img.shields.io/github/stars/iMelonArt/AI-Builder-Playbook" alt="GitHub stars"></a>
+  <a href="https://github.com/iMelonArt/AI-Builder-Playbook/network/members"><img src="https://img.shields.io/github/forks/iMelonArt/AI-Builder-Playbook" alt="GitHub forks"></a>
+  <a href="https://github.com/iMelonArt/AI-Builder-Playbook/pulls"><img src="https://img.shields.io/github/issues-pr/iMelonArt/AI-Builder-Playbook" alt="Pull requests"></a>
+  <a href="https://github.com/iMelonArt/AI-Builder-Playbook/issues"><img src="https://img.shields.io/github/issues/iMelonArt/AI-Builder-Playbook" alt="Issues"></a>
+  <a href="https://github.com/iMelonArt/AI-Builder-Playbook/graphs/contributors"><img src="https://img.shields.io/github/contributors/iMelonArt/AI-Builder-Playbook?color=2b9348" alt="Contributors"></a>
+  <a href="#license"><img src="https://img.shields.io/badge/licenses-MIT%20%26%20Apache--2.0-2b9348" alt="Licenses: MIT and Apache 2.0"></a>
+</p>
 
-*Enjoying the project? Visit [CloudMelon's GitHub profile](https://github.com/cloudmelon).*
+<p align="center"><em>Enjoying the project? Visit <a href="https://github.com/cloudmelon">CloudMelon's GitHub profile</a>.</em></p>
 
 ## Introduction
 
