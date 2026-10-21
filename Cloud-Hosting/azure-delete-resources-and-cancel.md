@@ -1,3 +1,4 @@
+
 # Delete Azure resources and cancel a subscription
 
 Run these commands in **Azure Cloud Shell — Bash**. Replace `YOUR-SUBSCRIPTION-ID` before running the deletion script.
