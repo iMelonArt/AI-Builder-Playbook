@@ -44,7 +44,7 @@ python melonRagGPT.py
 ## Detailed instructions
 
 Find detailed instructions in this blog post :
-[How I built a LLM-based Private AI for FREE in Docker Containers ](https://cloudmelonvision.com/how-i-built-a-llm-based-private-ai-for-free-in-docker-containers/)
+[How I built a LLM-based Private AI for FREE in Docker Containers ](https://cvisiona.com/how-i-built-a-local-llm-chatbot-in-docker-containers-step-by-step/)
 
 
 ## Supported document formats
@@ -76,7 +76,7 @@ Contributors names and contacts
 
 - Github profile [here](https://github.com/cloudmelon)
 - Twitter [@MelonyQ](https://twitter.com/melonyq)
-- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Blog [CVisiona](https://cvisiona.com)
 - Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 
 # Contribute

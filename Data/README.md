@@ -38,7 +38,7 @@ alt="Startup project" width="240" height="180" border="10" /></a>
 
 # Further details on my blog : 
 
-Please go to my blog [CloudMelon Vis](https://cloudmelonvision.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
+Please go to my blog [CVisiona](https://cvisiona.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
 
 Feel free to reach out to my twitter [**@MelonyQ**](https://twitter.com/MelonyQ) in case you have any questions. 
 
@@ -48,7 +48,7 @@ Contributors names and contacts
 
 - Github profile [here](https://github.com/cloudmelon)
 - Twitter [@MelonyQ](https://twitter.com/melonyq)
-- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Blog [CVisiona](https://cvisiona.com)
 - Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 
 # Contribute

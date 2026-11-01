@@ -30,7 +30,7 @@ How to set up local AI environement in CPU and GPU, check out this blog post [Ho
 | [MelonRagGPT - Azure OpenAI](https://github.com/iMelonArt/AI-Playbook/melonOpenAIRagGPT) | A cloud-based AI chatbot - powered by a multimodal AI GPT4 from OpenAI called Mistral in Docker containers and it can be deployed in Containers and Kubernetes for entreprise-grade scale. |
  
 # Project References
-To learn more about AI, check out this free crash course in 12 mins here [What You REALLY Need To Know About AI ](https://youtu.be/aW3GmbCnWW4) blog post [Artificial Intelligence (AI) made easy for beginners](https://cloudmelonvision.com/artificial-intelligence-ai-made-easy-for-beginners/)
+To learn more about AI, check out this free crash course in 12 mins here [What You REALLY Need To Know About AI ](https://youtu.be/aW3GmbCnWW4) blog post [Artificial Intelligence (AI) made easy for beginners](https://cvisiona.com/ai-made-easy-for-absolute-beginners/)
 
 
 # Related projects in the `Playbook by cloudmelon ` 
@@ -42,7 +42,7 @@ To learn more about AI, check out this free crash course in 12 mins here [What Y
 
 # Further details on my blog : 
 
-Please go to my blog [CloudMelon Vis](https://cvisiona.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
+Please go to my blog [CVisiona](https://cvisiona.com) to get more details about my work and visit my <a href="https://github.com/cloudmelon">Github profile</a></i></p>
 
 Feel free to reach out to my twitter [**@MelonyQ**](https://twitter.com/MelonyQ) in case you have any questions. 
 
@@ -52,7 +52,7 @@ Contributors names and contacts
 
 - Github profile [here](https://github.com/cloudmelon)
 - Twitter [@MelonyQ](https://twitter.com/melonyq)
-- Blog [CloudMelon Vis](https://cvisiona.com)
+- Blog [CVisiona](https://cvisiona.com)
 - Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 
 # Contribute

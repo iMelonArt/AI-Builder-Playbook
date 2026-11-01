@@ -36,7 +36,7 @@ For a walkthrough of setting up local AI with containers, see [How I built an LL
 ## Project references
 
 - [What You REALLY Need To Know About AI](https://youtu.be/aW3GmbCnWW4): a short AI crash course.
-- [Artificial Intelligence (AI) made easy for beginners](https://cloudmelonvision.com/artificial-intelligence-ai-made-easy-for-beginners/): an introductory article.
+- [Artificial Intelligence (AI) made easy for beginners](https://cvisiona.com/ai-made-easy-for-absolute-beginners/): an introductory article.
 - [AI startup YouTube playlist](https://bit.ly/ai-startup-cloudmelon): videos accompanying the project series.
 - [Research papers and learning references](Resources/README.md): explore the resource collection.
 
@@ -61,7 +61,7 @@ Created by **Melony Qin (cloudmelon)** from **iMelonArt**.
 
 - Github profile [here](https://github.com/cloudmelon)
 - Twitter [@MelonyQ](https://twitter.com/melonyq)
-- Blog [CloudMelon Vis](https://cloudmelonvision.com)
+- Blog [CVisiona](https://cvisiona.com)
 - Youtube[ CloudMelon Vis](https://www.youtube.com/@CloudMelonVis?sub_confirmation=1)
 ## Contribute
 
